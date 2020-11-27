@@ -1,7 +1,3 @@
-.App {
-  max-width: 550px;
-  margin: 40px auto 15px auto;
-}
 .Weather .current-temp {
   font-size: 60px;
 }
@@ -50,4 +46,3 @@
   font-size: 15px;
   text-align: center;
 }
-
