@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <div className="Footer">
       <footer>
-        <a href="https://github.com/cathykwc/test" target="_blank">
+        <a href="https://github.com/cathykwc/test" target="blank">
           Open-source code
         </a>{" "}
         by Cathy Chan
